@@ -2,7 +2,7 @@
 def display_menu():
     print("""
     =========================================
-              how2py Patch List
+                  how2py Notes
     =========================================
     1. View Patch Notes
     2. Add New Patch Note
